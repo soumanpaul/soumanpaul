@@ -43,8 +43,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/soumanpaul"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="soumanpaul" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumanpaul&show_icons=true&locale=en&layout=compact" alt="soumanpaul" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumanpaul&show_icons=true&locale=en" alt="soumanpaul" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumanpaul&" alt="soumanpaul" /></p>
