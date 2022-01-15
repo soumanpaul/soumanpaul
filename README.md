@@ -26,10 +26,10 @@
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 
-- 🔭 I’m currently working on [Restaurants booking mobile app](https://github.com/soumanpaul/FoodZone-Mobile-App)
-
+- 🔭 I’m currently working on MERN stack
+- :rocket: Always ready to collaborate for Dev Experiments
+- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - 🌱 I’m currently learning **Solidity**
-
 - 👨‍💻 All of my projects are available at [My Website](https://soumanpaul.github.io)
 
 - 📝 Sometimes I write articles on [Medium](https://medium.com/@_souman)
@@ -84,7 +84,7 @@ Video streaming web app</b></a></td>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">:heart: Let's get connected:</h2>
 <p align="left">
 <a href="https://dev.to/soumanpaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="soumanpaul" height="30" width="40" /></a>
 <a href="https://twitter.com/iamsouman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamsouman" height="30" width="40" /></a>
