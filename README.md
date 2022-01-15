@@ -11,15 +11,15 @@
 
 - 🌱 I’m currently learning **Solidity**
 
-- 👨‍💻 All of my projects are available at [https://soumanpaul.github.io](https://soumanpaul.github.io)
+- 👨‍💻 All of my projects are available at [My Website](https://soumanpaul.github.io)
 
-- 📝 I regularly write articles on [https://dev.to/soumanpaul](https://dev.to/soumanpaul)
+- 📝 Sometimes I write articles on [Medium] (https://medium.com/@_souman)
 
-- 💬 Ask me about **var topics = ["JS", "React", "Redux","Nodejs", "DS & Algorithm"]**
+- 💬 Ask me about ```var topics = ["JS", "React", "Redux","Nodejs", "DS & Algorithm"]```
 
-- 📫 How to reach me **mailto:paulsouman6174@gmail.com**
+- 📫 How to reach me **paulsouman6174@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZKPwzza3PyTl2f61uxv1aGeLYmn6zEzc/view?usp=sharing](https://drive.google.com/file/d/1ZKPwzza3PyTl2f61uxv1aGeLYmn6zEzc/view?usp=sharing)
+- 📄 Know about my experiences [My Resume] (https://drive.google.com/file/d/1ZKPwzza3PyTl2f61uxv1aGeLYmn6zEzc/view?usp=sharing)
 
 - ⚡ Fun fact **We're living in a computer simulation!**
 
