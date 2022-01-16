@@ -32,6 +32,7 @@
 <!-- - :rocket: Always ready to collaborate for Dev Experiments
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" -->
 - 🌱 I’m currently learning **Solidity**
+
 - 👨‍💻 All of my projects are available at [My Website](https://soumanpaul.github.io)
 
 - 📝 Sometimes I write articles on [Medium](https://medium.com/@_souman)
