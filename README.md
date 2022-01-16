@@ -28,6 +28,7 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 
 - :briefcase: 2.5+ years of working experience.
+
 - :computer: I’m currently working on MERN stack
 <!-- - :rocket: Always ready to collaborate for Dev Experiments
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" -->
