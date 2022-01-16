@@ -32,7 +32,7 @@
 - :computer: I’m currently working on React, Redux, Nodejs, Express, Mongodb, React Native, Javascript, etc.
 <!-- - :rocket: Always ready to collaborate for Dev Experiments
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" -->
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Solidity, Web3**
 
 - 👨‍💻 All of my projects are available at [My Website](https://soumanpaul.github.io)
 
