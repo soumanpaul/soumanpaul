@@ -29,7 +29,7 @@
 
 - :briefcase: 2.5+ years of working experience.
 
-- :computer: I’m currently working on MERN stack
+- :computer: I’m currently working on React, Redux, Nodejs, Express, Mongodb, React Native, Javascript, etc.
 <!-- - :rocket: Always ready to collaborate for Dev Experiments
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" -->
 - 🌱 I’m currently learning **Solidity**
