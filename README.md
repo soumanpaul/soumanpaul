@@ -30,17 +30,15 @@
 - 🏠 From Bengaluru, India.
 
 - :computer: I’m currently working on React, Redux, Nodejs, Express, Mongodb, React Native, Javascript, etc.
-<!-- - :rocket: Always ready to collaborate for Dev Experiments
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" -->
+
 - 🌱 I’m currently learning **Solidity, Web3**
 
 - 👨‍💻 All of my projects are available at [My Website](https://soumanpaul.github.io)
 
-- 📝 Sometimes I write articles on [Medium](https://medium.com/@_souman)
-
+<!-- - 📝 Sometimes I write articles on [Medium](https://medium.com/@_souman) -->
 - 💬 Ask me about `var topics = ["JS", "React", "Redux","Nodejs", "DS & Algorithm"]`
 
-- 📫 How to reach me **paulsouman6174@gmail.com**
+- 📫 How to reach me **soumanpaul4@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1ZKPwzza3PyTl2f61uxv1aGeLYmn6zEzc/view?usp=sharing)
 
