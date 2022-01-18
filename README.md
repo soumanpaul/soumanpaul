@@ -27,7 +27,7 @@
 
 - :briefcase: 2.5+ years of working experience.
 
-- :home: Living in Bengaluru, India.
+-  Living in Bengaluru, India.
 
 - :computer: I’m currently working on React, Redux, Nodejs, Express, Mongodb, React Native, Javascript, etc.
 <!-- - :rocket: Always ready to collaborate for Dev Experiments
