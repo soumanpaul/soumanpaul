@@ -1,12 +1,35 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Souman Paul</h1>
-<h3 align="center">git commit -m "Hello, I'm a Software Engineering at Appzoy Technology Pvt"</h3>
+<h1 align="">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Souman Paul</h1>
+<!-- <h3 align="center">git commit -m "Hello, I'm a Software Engineering at Appzoy Technology Pvt"</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumanpaul&label=Profile%20views&color=0e75b6&style=flat" alt="soumanpaul" /> </p>
 
-![Banner](banner.png)
+<!-- ![Banner](banner.png) -->
 
-<p align="left"> <a href="https://twitter.com/iamsouman" target="blank"><img src="https://img.shields.io/twitter/follow/iamsouman?logo=twitter&style=for-the-badge" alt="iamsouman" /></a> </p>
+<h3>Fullstack Developer & Open source contributor</h3>
+
+
+<!-- <p align="left"> <a href="https://twitter.com/iamsouman" target="blank"><img src="https://img.shields.io/twitter/follow/iamsouman?logo=twitter&style=for-the-badge" alt="iamsouman" /></a> </p> -->
 <!-- <p align="left"> <a href="https://github.com/soumanpaul" target="blank"><img src="https://img.shields.io/github/follow/soumanpaul?logo=github&style=for-the-badge" alt="soumanpaul" /></a> </p> -->
+
+
+- :briefcase: 3.5+ years of working experience.
+
+- 🏠 From Bengaluru, India.
+
+- :computer: I’m currently working on React, Redux, Nodejs, Express, Mongodb, React Native, Javascript, etc.
+
+- 🌱 I’m currently learning **Solidity, Web3**
+
+- 👨‍💻 All of my projects are available at [My Website](https://soumanpaul.github.io)
+
+<!-- - 📝 Sometimes I write articles on [Medium](https://medium.com/@_souman) -->
+- 💬 Ask me about `var topics = ["JS", "React", "Redux","Nodejs", "DS & Algorithm"]`
+
+- 📫 How to reach me **soumanpaul4@gmail.com**
+
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1ZKPwzza3PyTl2f61uxv1aGeLYmn6zEzc/view?usp=sharing)
+
+- ⚡ Fun fact **We're living in a computer simulation!**
 
 <h3 align="left">Things I code with:</h3>
 <p align="left">
@@ -25,24 +48,6 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
     <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
 
-- :briefcase: 2.5+ years of working experience.
-
-- 🏠 From Bengaluru, India.
-
-- :computer: I’m currently working on React, Redux, Nodejs, Express, Mongodb, React Native, Javascript, etc.
-
-- 🌱 I’m currently learning **Solidity, Web3**
-
-- 👨‍💻 All of my projects are available at [My Website](https://soumanpaul.github.io)
-
-<!-- - 📝 Sometimes I write articles on [Medium](https://medium.com/@_souman) -->
-- 💬 Ask me about `var topics = ["JS", "React", "Redux","Nodejs", "DS & Algorithm"]`
-
-- 📫 How to reach me **soumanpaul4@gmail.com**
-
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1ZKPwzza3PyTl2f61uxv1aGeLYmn6zEzc/view?usp=sharing)
-
-- ⚡ Fun fact **We're living in a computer simulation!**
 
 <h3>Open source projects</h3>
 <table>
