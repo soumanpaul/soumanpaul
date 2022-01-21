@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **Solidity, Web3**
 
-- 👨‍💻 All of my projects are available at [My Website](https://soumanpaul.github.io)
+<!-- - 👨‍💻 All of my projects are available at [My Website](https://soumanpaul.github.io) -->
 
 <!-- - 📝 Sometimes I write articles on [Medium](https://medium.com/@_souman) -->
 - 💬 Ask me about `var topics = ["JS", "React", "Redux","Nodejs", "DS & Algorithm"]`
