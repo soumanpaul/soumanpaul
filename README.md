@@ -1,4 +1,4 @@
-<h1 align="">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Souman Paul</h1>
+<h2 align="">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Souman Paul</h2>
 <!-- <h3 align="center">git commit -m "Hello, I'm a Software Engineering at Appzoy Technology Pvt"</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumanpaul&label=Profile%20views&color=0e75b6&style=flat" alt="soumanpaul" /> </p>
