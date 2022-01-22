@@ -23,6 +23,19 @@
 
 - ⚡ Fun fact **We're living in a computer simulation!**
   
+<h2 align="left">:heart: Let's get connected:</h2>
+<p align="left">
+
+
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pranaygupta.aec@gmail.com)](mailto:soumanpaul4@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/souman/)](https://www.linkedin.com/in/souman/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/iamsouman)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/soumanpaul)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/souman.pl/)](https://instagram.com/souman.pl)
+[![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://soumanpaul.github.io/)](https://souman.github.io/)
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/channel_id)](https://www.youtube.com/channel/uctb_j4adrvjs-jxtnblchqw)
+
+
 ## 👨🏻‍💻 Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/SamPaul/)
@@ -32,6 +45,7 @@
 <!-- 
 <img align='right' src="https://user-images.githubusercontent.com/64855541/133657615-ccb22336-f4db-408e-bc30-af7ff09608e7.png" width="280"> -->
 
+[![Pranay's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=soumanpaul&theme=xcode)](https://github.com/soumanpaul)
 
 ## ⚡ Technologies (Things I code with)
 
@@ -113,14 +127,7 @@ Video streaming web app</b></a></td>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h2 align="left">:heart: Let's get connected:</h2>
-<p align="left">
-<a href="https://dev.to/soumanpaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="soumanpaul" height="30" width="40" /></a>
-<a href="https://twitter.com/iamsouman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamsouman" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/souman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souman" height="30" width="40" /></a>
-<a href="https://instagram.com/souman.pl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="souman.pl" height="30" width="40" /></a>
-<a href="https://medium.com/@_souman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@_souman" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uctb_j4adrvjs-jxtnblchqw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uctb_j4adrvjs-jxtnblchqw" height="30" width="40" /></a>
+
 </p>
 <!-- <br> -->
 <br/>
