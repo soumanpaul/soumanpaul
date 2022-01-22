@@ -1,16 +1,8 @@
 <h2 align="">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Souman Paul</h2>
-<!-- <h3 align="center">git commit -m "Hello, I'm a Software Engineering at Appzoy Technology Pvt"</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumanpaul&label=Profile%20views&color=0e75b6&style=flat" alt="soumanpaul" /> </p>
 
-<!-- ![Banner](banner.png) -->
-
 <h3>Fullstack Developer & Open source contributor</h3>
-
-
-<!-- <p align="left"> <a href="https://twitter.com/iamsouman" target="blank"><img src="https://img.shields.io/twitter/follow/iamsouman?logo=twitter&style=for-the-badge" alt="iamsouman" /></a> </p> -->
-<!-- <p align="left"> <a href="https://github.com/soumanpaul" target="blank"><img src="https://img.shields.io/github/follow/soumanpaul?logo=github&style=for-the-badge" alt="soumanpaul" /></a> </p> -->
-
 
 - :briefcase: 3.5+ years of working experience.
 
@@ -42,7 +34,6 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -101,8 +92,26 @@ Video streaming web app</b></a></td>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uctb_j4adrvjs-jxtnblchqw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uctb_j4adrvjs-jxtnblchqw" height="30" width="40" /></a>
 </p>
 <!-- <br> -->
+<br/>
 
-<p><img align="" src="https://github-readme-stats.vercel.app/api?username=soumanpaul&show_icons=true&locale=en" alt="soumanpaul" /></p>
+## 📈 Stats
+<table>
+<tr>
+<td>
+<p align="">
+<img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=soumanpaul&theme=tokyonight" />
+</p>
+
+</td>
+</tr>
+<tr>
+<p><img align="" src="https://github-readme-stats.vercel.app/api?username=soumanpaul&show_icons=true&locale=en&count_private=true&show_icons=true&line_height=20&theme=tokyonight" alt="soumanpaul" /></p>
+</tr>
+</table>
+
+
+
+
 <br>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/soumanpaul"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="soumanpaul" /></a></p>
