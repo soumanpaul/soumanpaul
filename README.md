@@ -1,6 +1,7 @@
-### Hi there, I'm Souman Paul <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"><img src="https://komarev.com/ghpvc/?username=soumanpaul&label=Profile%20views&color=0e75b6&style=flat" alt="soumanpaul" />
+### Hi there, I'm Souman <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"><img src="https://komarev.com/ghpvc/?username=soumanpaul&label=Profile%20views&color=0e75b6&style=flat" alt="soumanpaul" />
 
-<h3>Fullstack Developer & Open source contributor</h3>
+<br/>
+### Fullstack Developer & Open source contributor
 
 - :briefcase: 3.5+ years of working experience.
 - 🏠 From Bengaluru, India.
