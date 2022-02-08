@@ -1,8 +1,8 @@
-<h2 align="left"> Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px">, I'm Souman <a href="https://twitter.com/intent/follow?screen_name=iamsouman&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/iamsouman?label=%40iamsouman&style=social"></a>
-</h2>
+<h3 align="left"> Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px">, I'm Souman <a href="https://twitter.com/intent/follow?screen_name=iamsouman&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/iamsouman?label=%40iamsouman&style=social"></a>
+</h3>
 <!-- ## <img src="https://komarev.com/ghpvc/?username=soumanpaul&label=Profile%20views&color=0e75b6&style=flat" alt="soumanpaul" /> -->
 
-<h2 align="left"> Fullstack Developer & Open source contributor</h2>
+<h3 align="left"> Fullstack Developer & Open source contributor</h3>
 
 - :briefcase: 3.5+ years of working experience.
 - 🏠 From Bengaluru, India.
@@ -14,7 +14,7 @@
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1ZKPwzza3PyTl2f61uxv1aGeLYmn6zEzc/view?usp=sharing)
 - ⚡ Fun fact **We're living in a computer simulation!**
 
-<h2 align="left">:heart: Let's get connected:</h2>
+<h3 align="left">:heart: Let's get connected:</h3>
 <p align="left">
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pranaygupta.aec@gmail.com)](mailto:soumanpaul4@gmail.com)
@@ -119,13 +119,13 @@ Video streaming web app</b></a></td>
 <table>
 
 <tr>
-<p><img align="" src="https://github-readme-stats.vercel.app/api?username=soumanpaul&show_icons=true&locale=en&count_private=true&show_icons=true&line_height=20&theme=tokyonight" alt="soumanpaul" /></p>
+<p><img align="" src="https://github-readme-stats.vercel.app/api?username=soumanpaul&show_icons=true&locale=en&count_private=true&show_icons=true&line_height=20&theme=algolia" alt="soumanpaul" /></p>
 </tr>
 </table>
 
 <br/>
 <p align="">
-<img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=soumanpaul&theme=tokyonight" />
+<img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=soumanpaul&theme=algolia" />
 </p>
 
 <br>
