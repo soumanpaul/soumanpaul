@@ -5,27 +5,20 @@
 <h3>Fullstack Developer & Open source contributor</h3>
 
 - :briefcase: 3.5+ years of working experience.
-
 - 🏠 From Bengaluru, India.
-
 - :computer: I’m currently working on React, Redux, Nodejs, Express, Mongodb, React Native, Javascript, etc.
-
 - 🌱 I’m currently learning **Solidity, Web3**
-
 <!-- - 👨‍💻 All of my projects are available at [My Website](https://soumanpaul.github.io) -->
 
 <!-- - 📝 Sometimes I write articles on [Medium](https://medium.com/@_souman) -->
+
 - 💬 Ask me about `var topics = ["JS", "React", "Redux","Nodejs", "DS & Algorithm"]`
-
 - 📫 How to reach me **soumanpaul4@gmail.com**
-
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1ZKPwzza3PyTl2f61uxv1aGeLYmn6zEzc/view?usp=sharing)
-
 - ⚡ Fun fact **We're living in a computer simulation!**
-  
+
 <h2 align="left">:heart: Let's get connected:</h2>
 <p align="left">
-
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pranaygupta.aec@gmail.com)](mailto:soumanpaul4@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/souman/)](https://www.linkedin.com/in/souman/)
@@ -35,23 +28,21 @@
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://soumanpaul.github.io/)](https://souman.github.io/)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/channel_id)](https://www.youtube.com/channel/uctb_j4adrvjs-jxtnblchqw)
 
-
 ## 👨🏻‍💻 Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/SamPaul/)
 [![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-05CC47?style=flat-square&logo=GeeksForGeeks&logoColor=black)](https://auth.geeksforgeeks.org/user/paulsouman)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/souman1729)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/soumanpaul)
-<!-- 
+
+<!--
 <img align='right' src="https://user-images.githubusercontent.com/64855541/133657615-ccb22336-f4db-408e-bc30-af7ff09608e7.png" width="280"> -->
 
 [![Pranay's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=soumanpaul&theme=xcode)](https://github.com/soumanpaul)
 
 ## ⚡ Technologies (Things I code with)
 
-
 ### Language
-
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -60,12 +51,11 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
-
 ### Libraries & Framework
 
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://reactjs.org/)
 <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-     <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)](https://getbootstrap.com/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://nodejs.org/)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
@@ -80,10 +70,6 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-
-
-
-
 
 <h3>Open source projects</h3>
 <table>
@@ -127,12 +113,12 @@ Video streaming web app</b></a></td>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-
 </p>
 <!-- <br> -->
 <br/>
 
 ## 📈 Stats
+
 <table>
 
 <tr>
@@ -140,12 +126,10 @@ Video streaming web app</b></a></td>
 </tr>
 </table>
 
-
 <br/>
 <p align="">
 <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=soumanpaul&theme=tokyonight" />
 </p>
-
 
 <br>
 <h3 align="left">Support:</h3>
