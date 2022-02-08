@@ -1,4 +1,6 @@
-### Hi there, I'm Souman <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"><img src="https://komarev.com/ghpvc/?username=soumanpaul&label=Profile%20views&color=0e75b6&style=flat" alt="soumanpaul" />
+### Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px">, I'm Souman <a href="https://twitter.com/intent/follow?screen_name=iamsouman&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/iamsouman?label=%40iamsouman&style=social"></a>
+
+<!-- <img src="https://komarev.com/ghpvc/?username=soumanpaul&label=Profile%20views&color=0e75b6&style=flat" alt="soumanpaul" /> -->
 
 ---
 
