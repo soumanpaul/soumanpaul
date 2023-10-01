@@ -98,15 +98,7 @@ Video streaming web app</b></a></td>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-</p>
-<!-- <br> -->
-<br/>
 
-
-<br/>
-<p align="">
-<img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=soumanpaul&theme=algolia" />
-</p>
 
 <br>
 <h3 align="left">Support:</h3>
