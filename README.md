@@ -102,14 +102,6 @@ Video streaming web app</b></a></td>
 <!-- <br> -->
 <br/>
 
-## 📈 Stats
-
-<table>
-
-<tr>
-<p><img align="" src="https://github-readme-stats.vercel.app/api?username=soumanpaul&show_icons=true&locale=en&count_private=true&show_icons=true&line_height=20&theme=algolia" alt="soumanpaul" /></p>
-</tr>
-</table>
 
 <br/>
 <p align="">
