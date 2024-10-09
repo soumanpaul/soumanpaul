@@ -5,7 +5,7 @@
 
 <h3 align="left"> Fullstack Developer & Open source contributor</h3>
 
-- :briefcase: 5.3+ years of working experience.
+- :briefcase: 6.3+ years of working experience.
 - 🏠 From Bengaluru, India.
 - :computer: I’m currently working on React, Redux, Nodejs, Express, Mongodb, React Native, Javascript, etc.
 - 🌱 I’m currently learning **Solidity, Web3**
