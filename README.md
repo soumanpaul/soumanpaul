@@ -3,7 +3,7 @@
 </h3>
 <!-- ## <img src="https://komarev.com/ghpvc/?username=soumanpaul&label=Profile%20views&color=0e75b6&style=flat" alt="soumanpaul" /> -->
 
-<h3 align="left"> Fullstack Developer & Open source contributor</h3>
+<h3 align="left"> Fullstack Developer </h3>
 
 - :briefcase: 6.3+ years of working experiences.
 - 🏠 From Bengaluru, India.
