@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Solidity, Web3**
 - 👨‍💻 All of my projects are available at [My Website]
 - 💬 Ask me about `var topics = ["JS", "React", "Redux","Nodejs", "DS & Algorithm"]`
-- 📫 How to reach me **soumanpaul4@gmail.com**
+- 📫 How to reach me **gmail.com**
 - 📄 Know about my experiences [My Resume]()
 - ⚡ Fun fact **We're living in a computer simulation!**
 
