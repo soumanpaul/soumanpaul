@@ -9,22 +9,18 @@
 - 🏠 From Bengaluru, India.
 - :computer: I’m currently working on React, Redux, Nodejs, Express, Mongodb, React Native, Javascript, etc.
 - 🌱 I’m currently learning **Solidity, Web3**
-- 👨‍💻 All of my projects are available at [My Website](https://soumanpaul.github.io)
+- 👨‍💻 All of my projects are available at [My Website]
 - 💬 Ask me about `var topics = ["JS", "React", "Redux","Nodejs", "DS & Algorithm"]`
 - 📫 How to reach me **soumanpaul4@gmail.com**
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1ZKPwzza3PyTl2f61uxv1aGeLYmn6zEzc/view?usp=sharing)
+- 📄 Know about my experiences [My Resume]()
 - ⚡ Fun fact **We're living in a computer simulation!**
 
 <h3 align="left">:heart: Let's get connected:</h3>
 <p align="left">
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pranaygupta.aec@gmail.com)](mailto:soumanpaul4@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/souman/)](https://www.linkedin.com/in/souman/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/iamsouman)
+
 
 ## 👨🏻‍💻 Coding Profiles
-
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/SamPaul/)
 
 ### Language, Libraries & Framework
 
