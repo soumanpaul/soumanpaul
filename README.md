@@ -1,30 +1,34 @@
-Got it — you want your README upgraded to a **modern, high-impact, AI/engineering-focused version** like the inspiration, but still **authentic to you** (not copy-paste).
-
-Here’s a **clean, unique, production-level README** tailored for *you (Souman)* 👇
-
----
-
 # 👋 Hey, I'm Souman Paul
 
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=38BDF8&vCenter=true&width=600&lines=Full-Stack+Engineer;AI+Systems+Builder;6%2B+Years+Experience;Building+Scalable+Products" />
+</p>
+
 📍 Bengaluru, India
-💼 **Senior Full-Stack Engineer (6+ yrs)** | ⚡ Building scalable products & exploring AI + Web3
+💼 **Senior Software Engineer | AI Engineer (Transitioning)**
+🚀 Building scalable systems + exploring AI-first architectures
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-I design and build **high-performance full-stack applications** with a strong focus on scalability, clean architecture, and real-world usability.
+I’m a **full-stack engineer with 6+ years of experience**, now focused on evolving into an **AI-first product engineer**.
 
-Currently expanding into **AI-powered systems and Web3**, blending modern engineering with next-gen tech.
+I specialize in building **scalable web applications**, and I’m actively working on integrating:
 
-* 🏗️ Building production-ready web & mobile apps
-* ⚡ Strong in frontend architecture + backend APIs
-* 🌱 Exploring **AI systems, LLMs, and blockchain**
-* 🧠 Love solving complex problems with clean solutions
+* 🤖 AI systems (LLMs, RAG, automation)
+* ⚡ Real-time applications
+* 🧱 Clean and scalable architectures
+
+I care about:
+
+* Performance ⚡
+* Developer experience 🛠️
+* Real-world impact 🚀
 
 ---
 
-## 🧠 Tech Stack
+## ⚡ Tech Stack
 
 ### 💻 Languages
 
@@ -37,74 +41,63 @@ Currently expanding into **AI-powered systems and Web3**, blending modern engine
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square\&logo=redux\&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square\&logo=react\&logoColor=black)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square\&logo=sass\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square\&logo=bootstrap)
 
-### ⚙️ Backend & APIs
+### ⚙️ Backend
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square\&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
 
-### ☁️ DevOps & Tools
+### 🤖 AI / Learning
+
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square\&logo=openai\&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
+![RAG](https://img.shields.io/badge/-RAG-0EA5E9?style=flat-square)
+
+### ☁️ DevOps
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square\&logo=amazonaws\&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat-square\&logo=git)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
 
 ---
 
-## 🔥 Highlight Projects
+## 🔥 Featured Work
 
 ### 🎬 Video Streaming Platform
 
-🔗 [https://github.com/soumanpaul/Video-streaming-web-app](https://github.com/soumanpaul/Video-streaming-web-app)
-
 * Scalable video delivery system
-* Optimized frontend performance
-* Real-time streaming architecture
-
----
+* Optimized frontend rendering
+* Built with React + Node.js
 
 ### 🛒 E-commerce Platform
 
-🔗 [https://github.com/soumanpaul/E-commerce-web-app](https://github.com/soumanpaul/E-commerce-web-app)
+* Full-stack marketplace architecture
+* Modular backend & API design
 
-* Full-stack marketplace solution
-* Secure payments & product management
-* Modular backend architecture
+### 📱 FoodZone Mobile App
 
----
-
-### 🍔 FoodZone Mobile App
-
-🔗 [https://github.com/soumanpaul/FoodZone-Mobile-App](https://github.com/soumanpaul/FoodZone-Mobile-App)
-
-* Cross-platform mobile app
-* Real-time ordering experience
-* Clean UI with React Native
+* React Native mobile application
+* Real-time user experience
 
 ---
 
-## 🧩 What I Focus On
+## 🧩 What I’m Building Towards
 
-* ⚡ Building **scalable frontend architectures**
-* 🔗 Designing **clean REST APIs & backend systems**
-* 📱 Creating **smooth mobile experiences**
-* 🧠 Exploring **AI integrations & Web3 systems**
-* 🚀 Shipping features that actually matter
-
----
-
-## 📊 GitHub Insights
-
-![Souman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=soumanpaul\&show_icons=true\&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soumanpaul\&layout=compact\&theme=tokyonight)
+* 🤖 AI-powered products (agents, copilots)
+* 🧠 Intelligent backend systems
+* ⚡ Real-time + event-driven architecture
+* 🏗️ Production-ready scalable systems
 
 ---
 
-## 🌐 Connect With Me
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soumanpaul\&show_icons=true\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumanpaul\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🌐 Connect
 
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:your-email@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square\&logo=linkedin)](https://linkedin.com/)
@@ -114,14 +107,14 @@ Currently expanding into **AI-powered systems and Web3**, blending modern engine
 
 ## ⚡ Fun Fact
 
-> I enjoy breaking complex systems into simple, elegant solutions — and yes, I still think we *might* be living in a simulation 😄
+> I enjoy turning complex systems into simple, scalable solutions — and I’m currently obsessed with AI 🚀
 
 ---
 
-### 💡 What changed vs your old README:
+## 🎯 Current Focus
 
-* Modern **AI + product builder positioning**
-* Cleaner structure (like top engineers’ profiles)
-* Removed clutter (tables → cleaner highlights)
-* Stronger **personal branding**
-* More **recruiter/startup-friendly tone**
+* Learning AI systems deeply
+* Building real-world AI-integrated apps
+* Preparing for top-tier engineering roles (FAANG / startups)
+
+---
